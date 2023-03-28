@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqXsLoRNSxk+oKvSl7f4uAQAAAAACAAAAAAAQZgAAAAEAACAAAABXK4rhFVi1aUGtYssWn0kFiWZzldl/twBU9QZb1z5qlAAAAAAOgAAAAAIAACAAAAAnxMjYcKTtcUnMw63JDLkOqIH6xwEmPYSJXXWBJ6bLj4AAAACYryk3y1w85MIb1dxzs8O0NKuXpk816L55V3k8QrmQ7168ZxdKakRRxqDiltgCjPf8giCMweD0oL2ycuIBLaF+RnJ2Us+boZ+xKRZ54OyAlXHJVJspp1rOWHQrkScvvXieVjr8oZ6FM6eXuugjRPeBkoWiAbTUSmwzwqEfidgfQ0AAAADK/aoHUe+r7k5kEZ62//s2D+e5re3+TUj6sOmg763/I6PUbfieBy8sVDRY+GzvcL827bhUsZiHK/1ZctxzUsoF</EncryptedPassword>
+    <History>True|2023-03-28T11:19:06.4328876Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="BE_Peliculas.ApplicationDbContext">
+      <Value>Data Source=tcp:be-peliculasdbserver.database.windows.net,1433%3bInitial Catalog=BE-Peliculas_db%3bUser Id=francisconav%40be-peliculasdbserver%3bPassword=xbox360haloA%3f</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
